@@ -1,0 +1,42 @@
+customer_id,age,gender,city,income,signup_date,last_login,plan,monthly_usage_gb,support_tickets,churned,notes
+1001,25.0,Male,Karachi,55000,2023-01-12,2024-02-10,Premium,120,1,0,Good customer
+1002,31.0,Female,Lahore,72000,12/03/2023,2024-02-01,Basic,45,3,1, late payer
+1003,,Male,Islamabad,68000,2023/02/01,2024-01-28,standard,60,2,0,
+1004,22.0,F,Karachi,?,2023-05-20,2024-02-14,Basic,15,5,1,Too many complaints
+1005,45.0,Male,Karachi,150000,2022-11-02,2023-12-25,Premium,350,0,0,VIP
+1006,29.0,female,Lahore,64000,2023-06-10,2024-01-05,Standard,75,2,0,
+1007,52.0,Male,Islamabad,-20000,2023-04-15,2024-02-11,Basic,30,7,1,Bad data?
+1008,38.0,Female,Karachi,82000,2023-02-28,not_available,Premium,95,1,0,
+1009,27.0,Male,  Karachi ,59000,2023-01-18,2024-02-12,Basic,40,2,1,
+1010,19.0,Female,Lahore,32000,2023-08-01,2024-02-15,Basic,10,6,1,new user
+1011,61.0,Male,Islamabad,200000,2022-10-10,2024-02-10,Premium,400,0,0,Old loyal
+1012,34.0,Female,Karachi,71000,2023-03-09,2024-02-05,Standard,70,3,0,
+1013,28.0,Male,Lahore,63000,2023-02-14,2024-01-30,standard,65,2,0,
+1014,40.0,Female,Karachi,90000,2023-04-20,2024-01-18,Premium,110,1,0,
+1015,23.0,Male,Islamabad,48000,2023-07-12,2024-01-29,Basic,25,4,1,
+1016,36.0,Female,Lahore,77000,2023-06-02,2024-02-02,Standard,80,1,0,
+1017,55.0,Male,Karachi,160000,2022-09-21,2024-02-11,Premium,300,0,0,
+1018,33.0,Female,Lahore,69000,2023-05-11,2024-01-15,Basic,50,3,1,
+1019,,Male,Karachi,60000,2023-01-25,2024-02-13,Basic,35,2,1,
+1020,26.0,Female,Islamabad,54000,2023-02-02,2024-02-12,Standard,58,2,0,
+1021,41.0,Male,Karachi,88000,2023-03-30,2024-01-27,Premium,105,1,0,
+1022,30.0,Female,Lahore,71000,2023-05-14,2024-01-19,Basic,42,4,1,
+1023,48.0,Male,Karachi,125000,2022-12-01,2024-02-14,Premium,210,0,0,
+1024,21.0,Female,Islamabad,35000,2023-08-20,2024-02-13,Basic,12,6,1,
+1025,39.0,Male,Lahore,82000,2023-04-09,2024-01-22,Standard,85,1,0,
+1026,42.0,Female,Karachi,91000,2023-02-18,2024-02-01,Premium,115,1,0,
+1027,24.0,Male,Lahore,52000,2023-07-01,2024-02-09,Basic,28,3,1,
+1028,60.0,Female,Islamabad,180000,2022-08-10,2024-02-12,Premium,320,0,0,
+1029,37.0,Male,Karachi,79000,2023-05-25,2024-01-26,Standard,78,2,0,
+1030,28.0,Female,Lahore,61000,2023-03-05,2024-01-30,Basic,40,3,1,
+1031,44.0,Male,Karachi,102000,2023-02-11,2024-02-15,Premium,130,0,0,
+1032,20.0,Female,Islamabad,30000,2023-09-01,2024-02-16,Basic,9,7,1,
+1033,47.0,Male,Lahore,118000,2022-11-15,2024-02-10,Premium,200,0,0,
+1034,29.0,Female,Karachi,67000,2023-06-18,2024-02-06,Standard,72,2,0,
+1035,53.0,Male,Islamabad,140000,2022-10-05,2024-01-28,Premium,250,1,0,
+1036,35.0,Female,Lahore,76000,2023-03-21,2024-01-24,Basic,55,3,1,
+1037,31.0,Male,Karachi,69000,2023-04-12,2024-01-29,Standard,67,2,0,
+1038,27.0,Female,Lahore,58000,2023-07-22,2024-02-03,Basic,30,4,1,
+1039,50.0,Male,Islamabad,135000,2022-12-20,2024-02-12,Premium,240,0,0,
+1040,34.0,Female,Karachi,72000,2023-01-30,2024-02-07,Standard,74,2,0,
+1001,25.0,Male,Karachi,55000,2023-01-12,2024-02-10,Premium,120,1,0,duplicate_row

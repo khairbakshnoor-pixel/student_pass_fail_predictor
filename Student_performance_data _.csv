@@ -1,0 +1,51 @@
+student_id,name,age,gender,class_section,attendance_percent,math_score,science_score,english_score,study_hours_per_day,internet_access,parent_education,extracurricular,absences,final_result
+1,Ali Khan,16,Male,10-A,88,78,81,74,3,Yes,Bachelor,Cricket,5,Pass
+2,Sara Ahmed,15,Female,10-B,92,85,89,90,4,yes,Master,Debate,2,Pass
+3,Umer,16,M,10-A,67,45,51,49,1,No,HighSchool,None,14,Fail
+4,Hina Riaz,15,F,10-C,73,59,60,65,2,Yes,Bachelor,Art,9,Pass
+5,Bilal Hussain,17,Male,10-A,40,22,31,28,0,no,Primary,None,32,Fail
+6,Ayesha Khan,16,Female,10-B,95,91,93,94,5,Yes,Master,ScienceClub,1,Pass
+7,Usman Tariq,15,Male,10-C,82,68,70,66,3,Yes,HighSchool,Football,6,Pass
+8,Farah Ali,16,Female,10-A,58,48,52,50,1,No,Primary,None,18,Fail
+9,Hamza,17,M,10-B,76,62,58,61,2,Yes,Bachelor,Cricket,7,Pass
+10,Zara Sheikh,15,Female,10-C,89,83,80,86,4,Yes,Master,Debate,3,Pass
+11,Adnan,16,Male,10-A,66,50,47,52,2,no,HighSchool,None,13,Fail
+12,Mahnoor,15,Female,10-B,91,88,92,90,4,Yes,Master,Art,2,Pass
+13,Rehan,16,M,10-C,72,60,63,58,2,Yes,Bachelor,Football,8,Pass
+14,Saba Khan,15,Female,10-A,84,74,78,72,3,Yes,Bachelor,Debate,5,Pass
+15,Kashif,17,Male,10-B,38,20,25,22,0,No,Primary,None,35,Fail
+16,Nida,16,Female,10-C,79,69,71,70,3,Yes,HighSchool,Art,6,Pass
+17,Imran,15,Male,10-A,55,42,39,45,1,no,Primary,None,17,Fail
+18,Laiba,16,Female,10-B,93,90,88,91,5,Yes,Master,ScienceClub,1,Pass
+19,Shahzaib,17,M,10-C,70,57,55,59,2,Yes,Bachelor,Cricket,10,Pass
+20,Maria,15,Female,10-A,87,79,82,84,3,Yes,Master,Debate,4,Pass
+21,Faizan,16,Male,10-B,62,51,49,53,2,No,HighSchool,None,11,Fail
+22,Noor,15,Female,10-C,96,94,92,95,5,Yes,Master,Art,0,Pass
+23,Talha,17,Male,10-A,73,64,66,61,3,Yes,Bachelor,Football,9,Pass
+24,Mehak,16,Female,10-B,81,72,70,75,3,Yes,Bachelor,Debate,6,Pass
+25,Arsalan,15,Male,10-C,44,30,28,35,0,No,Primary,None,28,Fail
+26,Iqra,16,Female,10-A,90,86,88,87,4,Yes,Master,ScienceClub,2,Pass
+27,Zain,17,M,10-B,69,55,60,54,2,Yes,HighSchool,Cricket,12,Fail
+28,Komal,15,Female,10-C,85,78,80,77,3,Yes,Bachelor,Art,5,Pass
+29,Rizwan,16,Male,10-A,59,46,50,48,1,no,Primary,None,16,Fail
+30,Anaya,15,Female,10-B,94,92,91,93,5,Yes,Master,Debate,1,Pass
+31,Saad,17,Male,10-C,77,65,68,64,3,Yes,Bachelor,Football,7,Pass
+32,Madiha,16,Female,10-A,83,75,78,74,3,Yes,Bachelor,Art,6,Pass
+33,Fahad,15,Male,10-B,52,40,38,41,1,No,Primary,None,19,Fail
+34,Aliza,16,Female,10-C,97,95,96,94,5,Yes,Master,ScienceClub,0,Pass
+35,Waqas,17,Male,10-A,71,58,60,57,2,Yes,HighSchool,Cricket,10,Pass
+36,Beenish,15,Female,10-B,86,80,79,82,4,Yes,Bachelor,Debate,5,Pass
+37,Hassan,16,M,10-C,63,52,49,50,2,No,Primary,None,13,Fail
+38,Ramsha,15,Female,10-A,90,85,87,89,4,Yes,Master,Art,2,Pass
+39,Shayan,17,Male,10-B,57,44,42,46,1,no,Primary,None,18,Fail
+40,Eman,16,Female,10-C,88,81,83,85,3,Yes,Bachelor,ScienceClub,4,Pass
+41,Asad,15,Male,10-A,48,33,30,35,0,No,Primary,None,25,Fail
+42,Hoor,16,Female,10-B,93,89,90,92,5,Yes,Master,Debate,1,Pass
+43,Jawad,17,M,10-C,75,66,68,65,3,Yes,Bachelor,Football,8,Pass
+44,Minal,15,Female,10-A,82,74,76,78,3,Yes,Bachelor,Art,6,Pass
+45,Ammar,16,Male,10-B,61,50,48,52,2,No,HighSchool,None,12,Fail
+46,Sanam,15,Female,10-C,95,92,94,93,5,Yes,Master,ScienceClub,1,Pass
+47,Yasir,17,Male,10-A,68,54,56,55,2,Yes,Bachelor,Cricket,11,Fail
+48,Sehrish,16,Female,10-B,87,79,82,80,3,Yes,Bachelor,Debate,5,Pass
+49,Naveed,15,Male,10-C,53,39,41,38,1,no,Primary,None,20,Fail
+50,Kinza,16,Female,10-A,98,96,97,95,5,Yes,Master,Art,0,Pass
